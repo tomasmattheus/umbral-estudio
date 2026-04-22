@@ -1,0 +1,72 @@
+{
+  "general": {
+    "name": "General",
+    "title": "Abogadas en Rosario con enfoque humano y estratégico",
+    "description": "Acompañamos cada caso con cercanía, claridad y resultados reales.",
+    "headline": "Defendemos derechos.\nAbrimos caminos.",
+    "highlight": "Soluciones jurídicas sólidas, humanas y eficaces.",
+    "whatsappMessage": "Hola Umbral, quiero hacer una consulta general.",
+    "features": ["Atención personalizada", "Respuesta clara", "Estrategia legal a medida"],
+    "requirements": ["Contanos tu situación", "Analizamos opciones", "Definimos próximos pasos"],
+    "faq": [
+      {"q":"¿Atienden de forma presencial y virtual?","a":"Sí, trabajamos en Rosario y también por videollamada para mayor comodidad."},
+      {"q":"¿Cuánto demora una primera consulta?","a":"Te contactamos rápidamente para coordinar la mejor opción."}
+    ]
+  },
+  "familia": {
+    "name": "Familia",
+    "title": "Abogadas de familia en Rosario",
+    "description": "Divorcios, cuota alimentaria y régimen de comunicación con acompañamiento profesional.",
+    "headline": "Derecho de Familia con\ncontención y estrategia.",
+    "highlight": "Divorcios, alimentos y cuidado personal con mirada integral.",
+    "whatsappMessage": "Hola Umbral, necesito asesoramiento en Derecho de Familia.",
+    "features": ["Divorcio unilateral y por presentación conjunta", "Cuota alimentaria", "Régimen de comunicación"],
+    "requirements": ["Evaluación inicial", "Diseño de estrategia", "Seguimiento del proceso"],
+    "faq": [
+      {"q":"¿Puedo iniciar divorcio aunque la otra parte no quiera?","a":"Sí, el divorcio unilateral está previsto por la normativa vigente."},
+      {"q":"¿Me asesoran por alimentos?","a":"Sí, trabajamos reclamos, convenios y ejecución de cuotas alimentarias."}
+    ]
+  },
+  "laboral": {
+    "name": "Laboral",
+    "title": "Abogadas laboralistas en Rosario",
+    "description": "Despidos, ART y trabajo no registrado. Defensa efectiva de tus derechos laborales.",
+    "headline": "Tus derechos laborales\nse defienden con evidencia.",
+    "highlight": "Despidos, accidentes y reclamos salariales con respaldo legal.",
+    "whatsappMessage": "Hola Umbral, necesito asesoramiento en Derecho Laboral.",
+    "features": ["Despidos", "ART y accidentes laborales", "Trabajo no registrado"],
+    "requirements": ["Revisión documental", "Estimación de reclamo", "Acción administrativa o judicial"],
+    "faq": [
+      {"q":"¿Qué hago si me despidieron?","a":"Conservá documentación y contactanos para evaluar indemnización y pasos urgentes."},
+      {"q":"¿Puedo reclamar si trabajé en negro?","a":"Sí, existen herramientas legales para exigir registración e indemnizaciones."}
+    ]
+  },
+  "sucesiones": {
+    "name": "Sucesiones",
+    "title": "Abogadas de sucesiones en Rosario",
+    "description": "Declaratorias, tracto abreviado y particiones con gestión ordenada y transparente.",
+    "headline": "Sucesiones claras,\nproceso ordenado.",
+    "highlight": "Te acompañamos para resolver trámites hereditarios con seguridad.",
+    "whatsappMessage": "Hola Umbral, necesito asesoramiento en Sucesiones.",
+    "features": ["Declaratoria de herederos", "Tracto abreviado", "Partición de bienes"],
+    "requirements": ["Reunimos documentación", "Iniciamos expediente", "Impulsamos hasta inscripción"],
+    "faq": [
+      {"q":"¿Cuándo conviene iniciar una sucesión?","a":"Cuanto antes, especialmente si hay bienes registrables o necesidad de vender."},
+      {"q":"¿Pueden tramitar sucesiones con herederos en otra ciudad?","a":"Sí, coordinamos estrategia y representación para facilitar el proceso."}
+    ]
+  },
+  "consumidor": {
+    "name": "Consumidor",
+    "title": "Abogadas de defensa del consumidor en Rosario",
+    "description": "Planes de ahorro, compras online y servicios defectuosos. Reclamos con estrategia.",
+    "headline": "Defensa del consumidor\ncon resultados reales.",
+    "highlight": "Reclamos por planes de ahorro, incumplimientos y daños al usuario.",
+    "whatsappMessage": "Hola Umbral, necesito asesoramiento en Defensa del Consumidor.",
+    "features": ["Planes de ahorro", "Compras online", "Servicios defectuosos"],
+    "requirements": ["Analizamos tu caso", "Reclamo administrativo", "Acción judicial si corresponde"],
+    "faq": [
+      {"q":"¿Puedo reclamar por una compra online?","a":"Sí, se puede exigir devolución, cambio o reparación según el caso."},
+      {"q":"¿Hacen audiencias en Defensa del Consumidor?","a":"Sí, representamos en instancias administrativas y judiciales."}
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "brand": "Umbral Estudio Jurídico",
+  "url": "https://www.umbralestudiojuridico.com.ar",
+  "phone": "+54 9 341 598-6642",
+  "address": "Alem 1668, Planta Alta, Rosario, Santa Fe",
+  "hours": "Lun a Vie 9:00 - 13:00 hs",
+  "instagram": "https://instagram.com/umbral.estudiojuridico",
+  "email": "hola@umbralestudio.com.ar",
+  "founders": [
+    "María Agostina Gianoli",
+    "Antonella Ermini"
+  ],
+  "seo": {
+    "defaultTitle": "Umbral Estudio Jurídico | Abogadas en Rosario",
+    "defaultDescription": "Defendemos derechos y abrimos caminos. Asesoramiento legal estratégico en familia, laboral, sucesiones y consumidor en Rosario."
+  },
+  "trust": [
+    {"title":"Ética","description":"Actuamos con integridad y responsabilidad."},
+    {"title":"Compromiso","description":"Nos involucramos en cada caso como propio."},
+    {"title":"Experiencia","description":"Formación sólida y práctica orientada a resultados."},
+    {"title":"Estrategia","description":"Diseñamos soluciones jurídicas a medida."}
+  ]
+}
